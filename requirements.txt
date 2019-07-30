@@ -1,0 +1,4 @@
+hermes_python
+pytz
+serial
+pyserial
